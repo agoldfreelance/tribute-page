@@ -1,18 +1,35 @@
 #main {
   background-color: #cea186;
+  text-align: center;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
 }
 #title {
   font-family: 'Montserrat', sans-serif;
   font-size: 72px;
-  display: flex;
-  justify-content: center;
+  position: relative;
+  top: 30px;
 }
 #img-div {
-
+  margin: 25px;
+  padding: 25px;
+  background-color: #fce3d4;
 }
-#img {
-
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+#img-caption {
+  margin: 10px;
 }
 #tribute-info {
-  font-family: 'Raleway', sans-serif;
+  margin: 20px;
+}
+#list {
+  text-align: left;
+  margin: auto;
 }
