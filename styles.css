@@ -1,0 +1,18 @@
+#main {
+  background-color: #cea186;
+}
+#title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 72px;
+  display: flex;
+  justify-content: center;
+}
+#img-div {
+
+}
+#img {
+
+}
+#tribute-info {
+  font-family: 'Raleway', sans-serif;
+}
